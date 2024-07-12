@@ -1,0 +1,470 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="59849f27-5820-4e49-b6e5-8e25950c5c0b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Profiler.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Profiler.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/agenda/index.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/agenda/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/agenda/platform-style.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/agenda/platform-style.ios.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/agenda/platform-style.ios.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/agenda/platform-style.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/agenda/reservation-list/index.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/agenda/reservation-list/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/agenda/reservation-list/reservation.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/agenda/reservation-list/reservation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/agenda/reservation-list/style.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/agenda/reservation-list/style.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/agenda/style.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/agenda/style.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/calendar-list/driver.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/calendar-list/index.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/calendar-list/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/calendar-list/item.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/calendar-list/item.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/calendar-list/new.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/calendar-list/new.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/calendar-list/style.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/calendar-list/style.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/calendar/day/basic/index.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/calendar/day/basic/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/calendar/day/basic/style.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/calendar/day/basic/style.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/calendar/day/dot/index.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/calendar/day/dot/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/calendar/day/dot/style.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/calendar/day/dot/style.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/calendar/day/index.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/calendar/day/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/calendar/day/marking/index.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/calendar/day/marking/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/calendar/day/marking/style.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/calendar/day/marking/style.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/calendar/day/period/index.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/calendar/day/period/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/calendar/day/period/style.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/calendar/day/period/style.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/calendar/header/index.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/calendar/header/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/calendar/header/style.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/calendar/header/style.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/calendar/index.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/calendar/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/calendar/style.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/calendar/style.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/commons/WeekDaysNames.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/commons/WeekDaysNames.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/commons/constants.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/commons/constants.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/componentUpdater.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/componentUpdater.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dateutils.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dateutils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day-state-manager.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day-state-manager.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/expandableCalendar/AgendaListsCommon.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/expandableCalendar/AgendaListsCommon.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/expandableCalendar/Context/Provider.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/expandableCalendar/Context/Provider.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/expandableCalendar/Context/index.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/expandableCalendar/Context/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/expandableCalendar/Context/todayButton.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/expandableCalendar/Context/todayButton.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/expandableCalendar/WeekCalendar/driver.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/expandableCalendar/WeekCalendar/index.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/expandableCalendar/WeekCalendar/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/expandableCalendar/WeekCalendar/new.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/expandableCalendar/WeekCalendar/new.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/expandableCalendar/__test__/expandableCalendarTestKit.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/expandableCalendar/__test__/expandableCalendarTestKit.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/expandableCalendar/__test__/index.spec.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/expandableCalendar/agendaList.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/expandableCalendar/agendaList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/expandableCalendar/asCalendarConsumer.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/expandableCalendar/asCalendarConsumer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/expandableCalendar/commons.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/expandableCalendar/commons.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/expandableCalendar/driver.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/expandableCalendar/index.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/expandableCalendar/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/expandableCalendar/infiniteAgendaList.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/expandableCalendar/infiniteAgendaList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/expandableCalendar/style.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/expandableCalendar/style.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/expandableCalendar/week.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/expandableCalendar/week.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hooks.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hooks.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/infinite-list/index.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/infinite-list/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interface.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interface.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/momentResolver.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/momentResolver.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/services/index.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/services/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/style.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/timeline-list/index.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/timeline-list/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/timeline-list/useTimelinePages.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/timeline-list/useTimelinePages.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/timeline/EventBlock.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/timeline/EventBlock.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/timeline/NowIndicator.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/timeline/NowIndicator.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/timeline/Packer.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/timeline/Packer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/timeline/Timeline.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/timeline/Timeline.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/timeline/TimelineHours.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/timeline/TimelineHours.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/timeline/helpers/presenter.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/timeline/helpers/presenter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/timeline/style.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/timeline/style.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/timeline/useTimelineOffset.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/timeline/useTimelineOffset.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/types.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/types.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/velocityTracker.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/velocityTracker.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.eslintrc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.npmignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.nvmrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.prettierignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.prettierrc.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ISSUE_TEMPLATE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/debug.keystore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/debug/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/debug/java/com/calendarsexample/ReactNativeFlipper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/ic_launcher-playstore.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/java/com/calendarsexample/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/java/com/calendarsexample/MainApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/drawable/rn_edit_text_material.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/mipmap-hdpi/ic_launcher_foreground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/mipmap-mdpi/ic_launcher_foreground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/mipmap-xhdpi/ic_launcher_foreground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/values/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/release/java/com/calendarsexample/ReactNativeFlipper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/assets/agenda.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/assets/calendar-list.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/assets/calendar.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/assets/day-header-style.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/assets/expandable-calendar.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/assets/horizontal-calendar-list.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/assets/loader.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/assets/marking1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/assets/marking2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/assets/marking3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/assets/marking4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/assets/marking5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/assets/marking6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/assets/multi-marking.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/assets/timeline-calendar.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/assets/week-calendar.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docsRNC/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docsRNC/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docsRNC/babel.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docsRNC/docs/Components/Agenda.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docsRNC/docs/Components/AgendaList.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docsRNC/docs/Components/Calendar.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docsRNC/docs/Components/CalendarList.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docsRNC/docs/Components/CalendarProvider.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docsRNC/docs/Components/ExpandableCalendar.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docsRNC/docs/Components/Timeline.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docsRNC/docs/Components/WeekCalendar.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docsRNC/docs/intro.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docsRNC/docs/testing.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docsRNC/docusaurus.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docsRNC/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docsRNC/sidebars.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docsRNC/src/components/HomepageFeatures.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docsRNC/src/components/HomepageFeatures.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docsRNC/src/css/custom.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docsRNC/src/pages/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docsRNC/src/pages/index.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docsRNC/src/pages/markdown-page.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docsRNC/static/.nojekyll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docsRNC/static/img/calendar-markings.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docsRNC/static/img/calendar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docsRNC/static/img/expandableCalendar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docsRNC/static/img/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docsRNC/static/img/timeline-calendar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docsRNC/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e2e/agenda.spec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e2e/app.spec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e2e/calendars.spec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e2e/calendarsList.spec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e2e/expandableCalendar.spec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e2e/horizontalList.spec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e2e/init.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e2e/mocha.opts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e2e/week-calendar.spec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/.babelrc-IGNORE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/.watchmanconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/__tests__/index.android.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/__tests__/index.ios.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/app.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/babel.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/metro.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/src/app.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/src/img/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/src/img/next.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/src/img/next@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/src/img/next@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/src/img/previous.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/src/img/previous@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/src/img/previous@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/src/mocks/AgendaItem.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/src/mocks/agendaItems.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/src/mocks/theme.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/src/mocks/timelineEvents.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/src/screens/agendaScreen.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/src/screens/calendarListScreen.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/src/screens/calendarPlaygroundScreen.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/src/screens/calendarScreen.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/src/screens/expandableCalendarScreen.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/src/screens/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/src/screens/menu.tsx.orig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/src/screens/menuScreen.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/src/screens/newCalendarListScreen.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/src/screens/playgroundScreen.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/src/screens/timelineCalendarScreen.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/src/testIDs.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/src/wdyr.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.android.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.ios.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/.xcode.env" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/CalendarsExample.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/CalendarsExample.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/CalendarsExample.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/CalendarsExample.xcodeproj/xcshareddata/xcschemes/CalendarsExample.xcscheme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/CalendarsExample.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/CalendarsExample.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/CalendarsExample/AppDelegate.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/CalendarsExample/AppDelegate.mm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/CalendarsExample/Images.xcassets/AppIcon.appiconset/1024x1024.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/CalendarsExample/Images.xcassets/AppIcon.appiconset/120x120-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/CalendarsExample/Images.xcassets/AppIcon.appiconset/120x120.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/CalendarsExample/Images.xcassets/AppIcon.appiconset/180x180.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/CalendarsExample/Images.xcassets/AppIcon.appiconset/40x40.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/CalendarsExample/Images.xcassets/AppIcon.appiconset/58x58.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/CalendarsExample/Images.xcassets/AppIcon.appiconset/60x60.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/CalendarsExample/Images.xcassets/AppIcon.appiconset/80x80.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/CalendarsExample/Images.xcassets/AppIcon.appiconset/87x87.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/CalendarsExample/Images.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/CalendarsExample/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/CalendarsExample/LaunchScreen.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/CalendarsExample/main.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/CalendarsExampleTests/CalendarsExampleTests.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/CalendarsExampleTests/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/LaunchScreen.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Podfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Podfile.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Podfile.lock.orig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/main.jsbundle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jest-setup.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/build-docs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/postinstall.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/release.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/test-e2e.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Profiler.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/agenda/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/agenda/platform-style.ios.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/agenda/platform-style.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/agenda/reservation-list/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/agenda/reservation-list/reservation.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/agenda/reservation-list/style.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/agenda/style.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/calendar-list/__tests__/index.spec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/calendar-list/driver.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/calendar-list/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/calendar-list/item.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/calendar-list/new.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/calendar-list/style.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/calendar/__tests__/index.spec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/calendar/day/basic/driver.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/calendar/day/basic/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/calendar/day/basic/style.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/calendar/day/dot/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/calendar/day/dot/style.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/calendar/day/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/calendar/day/marking/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/calendar/day/marking/style.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/calendar/day/period/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/calendar/day/period/style.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/calendar/driver.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/calendar/header/driver.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/calendar/header/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/calendar/header/style.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/calendar/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/calendar/style.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/commons/WeekDaysNames.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/commons/constants.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/componentUpdater.spec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/componentUpdater.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dateutils.spec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dateutils.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day-state-manager.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/expandableCalendar/AgendaListsCommon.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/expandableCalendar/Context/Provider.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/expandableCalendar/Context/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/expandableCalendar/Context/todayButton.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/expandableCalendar/WeekCalendar/__tests__/index.spec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/expandableCalendar/WeekCalendar/driver.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/expandableCalendar/WeekCalendar/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/expandableCalendar/WeekCalendar/new.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/expandableCalendar/__test__/expandableCalendarTestKit.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/expandableCalendar/__test__/index.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/expandableCalendar/agendaList.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/expandableCalendar/asCalendarConsumer.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/expandableCalendar/commons.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/expandableCalendar/driver.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/expandableCalendar/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/expandableCalendar/infiniteAgendaList.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/expandableCalendar/style.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/expandableCalendar/week.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hooks.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/infinite-list/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interface.spec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interface.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/momentResolver.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/services/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/services/services.spec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/style.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/style.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/timeline-list/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/timeline-list/useTimelinePages.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/timeline/EventBlock.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/timeline/NowIndicator.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/timeline/Packer.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/timeline/Timeline.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/timeline/TimelineHours.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/timeline/__tests__/Packer.spec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/timeline/__tests__/presenter.spec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/timeline/helpers/presenter.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/timeline/style.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/timeline/useTimelineOffset.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/types.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/velocityTracker.ts" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="/opt/homebrew/Cellar/php/8.3.0/bin/php" />
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2j6TpePzxXZSvQx51gFOMbdcs5f" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/Users/frx33169/projects/react-native-calendars",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "ts.external.directory.path": "/Applications/PhpStorm.app/Contents/plugins/javascript-impl/jsLanguageServicesImpl/external",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-php-predefined-ba97393d7c68-b4dcf6bb9de9-com.jetbrains.php.sharedIndexes-PS-233.13135.108" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="59849f27-5820-4e49-b6e5-8e25950c5c0b" name="Changes" comment="" />
+      <created>1720706716087</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1720706716087</updated>
+      <workItem from="1720706717153" duration="1034000" />
+      <workItem from="1720708586267" duration="5000" />
+      <workItem from="1720713867169" duration="5467000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/src/index.js" />
+        <option value="$PROJECT_DIR$/src/index.d.ts" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ID_ORDER">
+      <list>
+        <option value="Default.Root" />
+        <option value="Default.Author" />
+        <option value="Default.Date" />
+        <option value="Default.Subject" />
+        <option value="Space.CommitStatus" />
+      </list>
+    </option>
+  </component>
+</project>
