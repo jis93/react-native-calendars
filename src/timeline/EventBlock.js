@@ -21,7 +21,7 @@ const EventBlock = (props) => {
     const _onPress = useCallback(() => {
         onPress(index);
     }, [index, onPress]);
-    return (<TouchableOpacity activeOpacity={0.9} onPress={_onPress} style={[styles.event, eventStyle]}>
+    return (<TouchableOpacity activeOpacity={0.9} onPress={_onPress} style={[eventStyle]}>
       {renderEvent ? (renderEvent(event)) : (<View>
           <Text numberOfLines={1} style={styles.eventTitle}>
             {event.title || 'Event'}
